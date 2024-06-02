@@ -504,4 +504,3 @@ echo -e "============================" | lolcat
 echo -e $b "20. Install Termux-Banner${enda}";
 echo -e "============================" | lolcat
 echo -e $b "21. Install udfhack${enda}";
-echo -e "============================" |
